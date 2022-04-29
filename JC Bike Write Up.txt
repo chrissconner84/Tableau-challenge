@@ -1,5 +1,0 @@
-For this project, I decided to look at the Jersey City side of the NYC Citi Bike program. As with most things New York, New Jersey typically gets often over looked. Seeing that is a smaller dataset, 
-it was easier to manipulate and process in Tableau Public. 
-
-The phenonema I was interested in was the differing use of the Citi bikes in Jersey City based on the season, i.e. spring, summer, fall and winter. The effect that these seasons had on
-the type of bike choosen and the distance/MPH that the different bikes were ridden.
